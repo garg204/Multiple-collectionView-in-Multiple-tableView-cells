@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CollectionView
 //
-//  Created by United Ankit on 20/10/17.
+//  Created by    Ankit on 20/10/17.
 //  Copyright © 2017 Ankit. All rights reserved.
 //
 
